@@ -1,0 +1,9 @@
+c:\users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\WinFormPractice\bin\Debug\WinFormPractice.exe.config
+c:\users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\WinFormPractice\bin\Debug\WinFormPractice.exe
+c:\users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\WinFormPractice\bin\Debug\WinFormPractice.pdb
+c:\users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\WinFormPractice\obj\Debug\WinFormPractice.csprojResolveAssemblyReference.cache
+c:\users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\WinFormPractice\obj\Debug\WinFormPractice.Properties.Resources.resources
+c:\users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\WinFormPractice\obj\Debug\WinFormPractice.csproj.GenerateResource.Cache
+c:\users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\WinFormPractice\obj\Debug\WinFormPractice.exe
+c:\users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\WinFormPractice\obj\Debug\WinFormPractice.pdb
+c:\users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\WinFormPractice\obj\Debug\WinFormPractice.Player.resources
