@@ -6,4 +6,4 @@ c:\users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\W
 c:\users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\WinFormPractice\obj\Debug\WinFormPractice.csproj.GenerateResource.Cache
 c:\users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\WinFormPractice\obj\Debug\WinFormPractice.exe
 c:\users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\WinFormPractice\obj\Debug\WinFormPractice.pdb
-c:\users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\WinFormPractice\obj\Debug\WinFormPractice.Player.resources
+C:\Users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\WinFormPractice\obj\Debug\WinFormPractice.Form1.resources
