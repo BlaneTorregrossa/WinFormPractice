@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 // Combat: 2 Parties: 1-3 PlayersPerParty: -EndTurn
 // Classes for TurnOrder, Party, and Player (in their own files)
-// Use Delegates in this!!!
+
 
 namespace FSMPractice
 {

@@ -1,1 +1,9 @@
 C:\Users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\FSMPractice\bin\Debug\FSMPractice.exe.config
+C:\Users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\FSMPractice\bin\Debug\FSMPractice.exe
+C:\Users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\FSMPractice\bin\Debug\FSMPractice.pdb
+C:\Users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\FSMPractice\obj\Debug\FSMPractice.csprojResolveAssemblyReference.cache
+C:\Users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\FSMPractice\obj\Debug\FSMPractice.Form1.resources
+C:\Users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\FSMPractice\obj\Debug\FSMPractice.Properties.Resources.resources
+C:\Users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\FSMPractice\obj\Debug\FSMPractice.csproj.GenerateResource.Cache
+C:\Users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\FSMPractice\obj\Debug\FSMPractice.exe
+C:\Users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\FSMPractice\obj\Debug\FSMPractice.pdb

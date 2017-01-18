@@ -16,15 +16,22 @@ namespace FSMPractice
     class Party
     {
 
-        //Party(Player plOne, Player plTwo, Player plThree, Player plFour, Player plFive, Player plSix) { }
-        Party() { }
-
-
-
         //List<Player> members;
         //Player current;
         //Player GetNext();
 
+
+        //Party(Player plOne, Player plTwo, Player plThree, Player plFour, Player plFive, Player plSix) { }
+        Party()
+        {
+
+            //foreach ()
+
+        }
+
+
+
+     
         
 
     }
