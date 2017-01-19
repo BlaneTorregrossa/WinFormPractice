@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormPractice", "WinFormP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSMPractice", "FSMPractice\FSMPractice.csproj", "{D4E86379-F23F-49C4-8DE1-C6B1C9D8743D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSMAssignment", "FSMAssignment\FSMAssignment.csproj", "{F1A7C4C1-8CBB-4C10-9A6A-5EAC0F847B4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSM", "FSM\FSM.csproj", "{EE25BA9C-2008-4EA7-9392-AFAC4809CA04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{D4E86379-F23F-49C4-8DE1-C6B1C9D8743D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4E86379-F23F-49C4-8DE1-C6B1C9D8743D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4E86379-F23F-49C4-8DE1-C6B1C9D8743D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A7C4C1-8CBB-4C10-9A6A-5EAC0F847B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A7C4C1-8CBB-4C10-9A6A-5EAC0F847B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A7C4C1-8CBB-4C10-9A6A-5EAC0F847B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A7C4C1-8CBB-4C10-9A6A-5EAC0F847B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE25BA9C-2008-4EA7-9392-AFAC4809CA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE25BA9C-2008-4EA7-9392-AFAC4809CA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE25BA9C-2008-4EA7-9392-AFAC4809CA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE25BA9C-2008-4EA7-9392-AFAC4809CA04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

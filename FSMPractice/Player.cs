@@ -61,6 +61,14 @@ namespace FSMPractice
         }
 
 
+        public bool NextPlayer()
+        {
+
+            return false;
+
+        }
+
+
         public void EndParty()
         {
 
@@ -69,11 +77,7 @@ namespace FSMPractice
         }
 
 
-        public bool NextPlayer()
-        {
-
-            return false;
-        }
+      
 
 
         //public string Name;
