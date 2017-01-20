@@ -1,0 +1,2 @@
+C:\Users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\FSM\bin\Debug\FSM.exe.config
+C:\Users\blane.torregros\documents\visual studio 2015\Projects\WinFormPractice\FSM\obj\Debug\FSM.csprojResolveAssemblyReference.cache

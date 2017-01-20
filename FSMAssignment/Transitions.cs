@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace FSMAssignment
 {
-    class State
+    class Transitions
     {
+
 
 
 

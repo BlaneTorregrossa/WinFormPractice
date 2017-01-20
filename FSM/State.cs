@@ -3,11 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
-namespace FSMAssignment
+namespace FSM
 {
     class State
     {
+
+        // Defines where evreything goes.
 
 
 
